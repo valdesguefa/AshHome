@@ -1,0 +1,1140 @@
+1678192349909	geckodriver	INFO	Listening on 127.0.0.1:51889
+1678192358537	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "51890" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\ASHDOWNX\\AppData\\Local\\Temp\\rust_mozprofileL0sgGW"
+1678193211606	geckodriver	INFO	Listening on 127.0.0.1:51909
+1678193214645	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "51910" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\ASHDOWNX\\AppData\\Local\\Temp\\rust_mozprofileGHRyGn"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1678193215079	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1678193215087	Marionette	INFO	Listening on port 51917
+Read port: 51917
+WebDriver BiDi listening on ws://127.0.0.1:51910
+1678193215248	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\ASHDOWNX\\AppData\\Local\\Temp\\rust_mozprofileGHRyGn\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:51910/devtools/browser/1d9fcc38-f0e6-4fe2-a6c6-94243903c931
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+console.error: (new TypeError("lazy.AsyncShutdown.profileBeforeChange is undefined", "resource://services-settings/Database.jsm", 603))
+JavaScript warning: https://pagead2.googlesyndication.com/bg/QgTZnvWYncyBbJYBpDMbCbR8MV8sYHPEFXGodYZ8fLU.js line 2 > eval line 5755 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: , line 0: NS_ERROR_NOT_AVAILABLE
+1678194417026	Marionette	INFO	Stopped listening on port 51917
+Dynamically enable window occlusion 1
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+s server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1678193524239	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1678193524248	Marionette	INFO	Listening on port 49219
+Read port: 49219
+WebDriver BiDi listening on ws://127.0.0.1:49212
+1678193524460	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\ASHDOWNX\\AppData\\Local\\Temp\\rust_mozprofileet7Ozl\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:49212/devtools/browser/bb9519a8-1dea-4358-a731-155294a55018
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+console.error: (new TypeError("lazy.AsyncShutdown.profileBeforeChange is undefined", "resource://services-settings/Database.jsm", 603))
+JavaScript warning: https://pagead2.googlesyndication.com/bg/QgTZnvWYncyBbJYBpDMbCbR8MV8sYHPEFXGodYZ8fLU.js line 2 > eval line 320 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: , line 0: NS_ERROR_NOT_AVAILABLE
+1678194417896	Marionette	INFO	Stopped listening on port 49219
+Dynamically enable window occlusion 1
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+s server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1678193716277	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1678193716286	Marionette	INFO	Listening on port 49441
+Read port: 49441
+WebDriver BiDi listening on ws://127.0.0.1:49434
+1678193716452	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\ASHDOWNX\\AppData\\Local\\Temp\\rust_mozprofileSzAV5Q\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:49434/devtools/browser/304a92ef-0ece-4537-874e-0d587fb135ca
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+console.error: (new TypeError("lazy.AsyncShutdown.profileBeforeChange is undefined", "resource://services-settings/Database.jsm", 603))
+JavaScript warning: https://pagead2.googlesyndication.com/bg/QgTZnvWYncyBbJYBpDMbCbR8MV8sYHPEFXGodYZ8fLU.js line 2 > eval line 2681 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1678194418919	Marionette	INFO	Stopped listening on port 49441
+Dynamically enable window occlusion 1
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+ings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1678193848916	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1678193848924	Marionette	INFO	Listening on port 58765
+Read port: 58765
+WebDriver BiDi listening on ws://127.0.0.1:58758
+1678193849078	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\ASHDOWNX\\AppData\\Local\\Temp\\rust_mozprofileM3CJnw\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:58758/devtools/browser/af0db5f2-3439-45a0-9e86-9f599854e9ff
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+console.error: (new TypeError("lazy.AsyncShutdown.profileBeforeChange is undefined", "resource://services-settings/Database.jsm", 603))
+JavaScript warning: https://pagead2.googlesyndication.com/bg/QgTZnvWYncyBbJYBpDMbCbR8MV8sYHPEFXGodYZ8fLU.js line 2 > eval line 3749 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1678194070708	Marionette	INFO	Stopped listening on port 58765
+Dynamically enable window occlusion 1
+1678194137578	geckodriver	INFO	Listening on 127.0.0.1:63885
+1678194140611	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "63886" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\ASHDOWNX\\AppData\\Local\\Temp\\rust_mozprofileZMKkDp"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1678194141041	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1678194141050	Marionette	INFO	Listening on port 63893
+WebDriver BiDi listening on ws://127.0.0.1:63886
+Read port: 63893
+1678194141361	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\ASHDOWNX\\AppData\\Local\\Temp\\rust_mozprofileZMKkDp\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:63886/devtools/browser/df95f2d6-b3d7-44be-b6db-d07313bc26d0
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+console.error: (new TypeError("lazy.AsyncShutdown.profileBeforeChange is undefined", "resource://services-settings/Database.jsm", 603))
+JavaScript warning: https://pagead2.googlesyndication.com/bg/QgTZnvWYncyBbJYBpDMbCbR8MV8sYHPEFXGodYZ8fLU.js line 2 > eval line 2311 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1678194355986	Marionette	INFO	Stopped listening on port 63893
+Dynamically enable window occlusion 1
+1678194426659	geckodriver	INFO	Listening on 127.0.0.1:62809
+1678194429703	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "62810" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\ASHDOWNX\\AppData\\Local\\Temp\\rust_mozprofileR4ywj0"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1678194430150	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1678194430157	Marionette	INFO	Listening on port 62820
+Read port: 62820
+WebDriver BiDi listening on ws://127.0.0.1:62810
+1678194430344	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\ASHDOWNX\\AppData\\Local\\Temp\\rust_mozprofileR4ywj0\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:62810/devtools/browser/f412cc8e-e07a-48a9-8b56-69a155ad5aa9
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+console.error: (new TypeError("lazy.AsyncShutdown.profileBeforeChange is undefined", "resource://services-settings/Database.jsm", 603))
+JavaScript warning: https://pagead2.googlesyndication.com/bg/QgTZnvWYncyBbJYBpDMbCbR8MV8sYHPEFXGodYZ8fLU.js line 2 > eval line 3694 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1678194659898	Marionette	INFO	Stopped listening on port 62820
+Dynamically enable window occlusion 1
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+1678194858392	geckodriver	INFO	Listening on 127.0.0.1:63996
+1678194861468	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "63997" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\ASHDOWNX\\AppData\\Local\\Temp\\rust_mozprofileQ736cq"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1678194861894	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1678194861901	Marionette	INFO	Listening on port 64006
+Read port: 64006
+WebDriver BiDi listening on ws://127.0.0.1:63997
+1678194862051	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\ASHDOWNX\\AppData\\Local\\Temp\\rust_mozprofileQ736cq\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:63997/devtools/browser/b347821c-f489-46f7-9bb7-efb1a353259f
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+console.error: (new TypeError("lazy.AsyncShutdown.profileBeforeChange is undefined", "resource://services-settings/Database.jsm", 603))
+JavaScript warning: https://pagead2.googlesyndication.com/bg/QgTZnvWYncyBbJYBpDMbCbR8MV8sYHPEFXGodYZ8fLU.js line 2 > eval line 5954 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1678195082772	Marionette	INFO	Stopped listening on port 64006
+Dynamically enable window occlusion 1
+1678195701765	geckodriver	INFO	Listening on 127.0.0.1:64443
+1678195704833	mozrunner::runner	INFO	Running command: "C:\\P1678195704950	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "64447" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Usconsole.warn: services.settings: Ignoring preference overridconsole.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by1678195705321	Marionette	INFO	Marionette enabled
+Dynamicall1678195705482	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1678195705494	Marionette	INFO	Listening on port 64462
+Read port: 64462
+WebDriver BiDi listening on ws://127.0.0.1:64447
+1678195705723	RemoteAgent	WAconsole.warn: SearchSettings: "get: No settings file exists,console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\ASHDOWNX\\AppData\\Local\\TeDevTools listening on ws://127.0.0.1:64444/devtools/browser/DevTools listening on ws://127.0.0.1:6console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+console.error: (new TypeError("lazy.AsyncShutdown.profileBeforeChange is undefined", "resource://services-settings/Database.jsm", 603))
+JavaScript warning: https://pagead2.googlesyndication.com/bg/QgTZnvWYncyBbJYBpDMbCbR8MV8sYHPEFXGodYZ8fLU.js line 2 > eval line 6565 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: , line 0: NS_ERROR_NOT_AVAILABLE
+DERER.
+1678195923181	Marionette	INFO	Stopped listening on port 64462
+Dynamically enable window occlusion 1
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+1678196436077	geckodriver	INFO	Listening on 127.0.0.1:53184
+1678196439129	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "53187" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\ASHDOWNX\\AppData\\Local\\Temp\\rust_mozprofile1moTpO"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1678196439593	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1678196439603	Marionette	INFO	Listening on port 53203
+Read port: 53202
+WebDriver BiDi listening on ws://127.0.0.1:53185
+1678196439836	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\ASHDOWNX\\AppData\\Local\\Temp\\rust_mozprofileDkZmTc\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:53185/devtools/browser/a80d63a4-1ba4-4d4d-b175-93b322cdd97d
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+console.error: (new TypeError("lazy.AsyncShutdown.profileBeforeChange is undefined", "resource://services-settings/Database.jsm", 603))
+JavaScript warning: https://pagead2.googlesyndication.com/bg/QgTZnvWYncyBbJYBpDMbCbR8MV8sYHPEFXGodYZ8fLU.js line 2 > eval line 634 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: , line 0: NS_ERROR_NOT_AVAILABLE
+console.error: "Problem getting stored prefs for TopSites"
+JavaScript error: , line 0: uncaught exception: null
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+console.error: (new TypeError("lazy.AsyncShutdown.profileBeforeChange is undefined", "resource://services-settings/Database.jsm", 603))
+ Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "51019" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\ASHDOWNX\\AppData\\Local\\Temp\\rust_mozprofileNlbE5i"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1678197138462	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1678197138469	Marionette	INFO	Listening on port 51027
+WebDriver BiDi listening on ws://127.0.0.1:51019
+Read port: 51027
+1678197138673	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\ASHDOWNX\\AppData\\Local\\Temp\\rust_mozprofileNlbE5i\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:51019/devtools/browser/80a65f85-7185-4aa9-b528-27ffb320b94d
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+console.error: (new TypeError("lazy.AsyncShutdown.profileBeforeChange is undefined", "resource://services-settings/Database.jsm", 603))
+JavaScript warning: https://pagead2.googlesyndication.com/bg/QgTZnvWYncyBbJYBpDMbCbR8MV8sYHPEFXGodYZ8fLU.js line 2 > eval line 3964 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1678197353955	Marionette	INFO	Stopped listening on port 51027
+Dynamically enable window occlusion 1
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+1678197733690	geckodriver	INFO	Listening on 127.0.0.1:53456
+1678197736732	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "53457" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\ASHDOWNX\\AppData\\Local\\Temp\\rust_mozprofileqdzUJC"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1678197737163	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1678197737170	Marionette	INFO	Listening on port 53465
+Read port: 53465
+WebDriver BiDi listening on ws://127.0.0.1:53457
+1678197737335	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\ASHDOWNX\\AppData\\Local\\Temp\\rust_mozprofileqdzUJC\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:53457/devtools/browser/d4891f96-7630-429a-8e52-406274c0ee77
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+1678197759504	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'interactive'.
+console.error: ({})
+console.error: ({})
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+console.error: (new TypeError("lazy.AsyncShutdown.profileBeforeChange is undefined", "resource://services-settings/Database.jsm", 603))
+JavaScript warning: https://pagead2.googlesyndication.com/bg/QgTZnvWYncyBbJYBpDMbCbR8MV8sYHPEFXGodYZ8fLU.js line 2 > eval line 5775 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1678198267305	geckodriver	INFO	Listening on 127.0.0.1:53717
+1678198270347	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "53718" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\ASHDOWNX\\AppData\\Local\\Temp\\rust_mozprofileoupcjQ"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1678198270760	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1678198270767	Marionette	INFO	Listening on port 53728
+Read port: 53728
+WebDriver BiDi listening on ws://127.0.0.1:53718
+1678198270935	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\ASHDOWNX\\AppData\\Local\\Temp\\rust_mozprofileoupcjQ\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:53718/devtools/browser/0a0c0857-5094-42bc-98b2-374fe5c9a20d
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+console.error: (new TypeError("lazy.AsyncShutdown.profileBeforeChange is undefined", "resource://services-settings/Database.jsm", 603))
+JavaScript warning: https://pagead2.googlesyndication.com/bg/QgTZnvWYncyBbJYBpDMbCbR8MV8sYHPEFXGodYZ8fLU.js line 2 > eval line 6601 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1678198486956	Marionette	INFO	Stopped listening on port 53728
+Dynamically enable window occlusion 1
+1678198608977	geckodriver	INFO	Listening on 127.0.0.1:55764
+1678198612040	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "55765" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\ASHDOWNX\\AppData\\Local\\Temp\\rust_mozprofileNAQlKc"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1678198612463	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1678198612470	Marionette	INFO	Listening on port 55772
+Read port: 55772
+WebDriver BiDi listening on ws://127.0.0.1:55765
+1678198612625	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\ASHDOWNX\\AppData\\Local\\Temp\\rust_mozprofileNAQlKc\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:55765/devtools/browser/42772b29-caa5-4b8b-af03-4740b69620b3
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+console.error: (new TypeError("lazy.AsyncShutdown.profileBeforeChange is undefined", "resource://services-settings/Database.jsm", 603))
+JavaScript warning: https://pagead2.googlesyndication.com/bg/QgTZnvWYncyBbJYBpDMbCbR8MV8sYHPEFXGodYZ8fLU.js line 2 > eval line 6300 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: , line 0: NS_ERROR_NOT_AVAILABLE
+1:55914
+1678198837494	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "55915" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\ASHDOWNX\\AppData\\Local\\Temp\\rust_mozprofilek2mh72"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1678198838003	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1678198838012	Marionette	INFO	Listening on port 55922
+Read port: 55922
+WebDriver BiDi listening on ws://127.0.0.1:55915
+1678198838208	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\ASHDOWNX\\AppData\\Local\\Temp\\rust_mozprofilek2mh72\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:55915/devtools/browser/42a0c736-70d9-42e3-a185-8b4aa9957541
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+console.error: (new TypeError("lazy.AsyncShutdown.profileBeforeChange is undefined", "resource://services-settings/Database.jsm", 603))
+JavaScript warning: https://pagead2.googlesyndication.com/bg/QgTZnvWYncyBbJYBpDMbCbR8MV8sYHPEFXGodYZ8fLU.js line 2 > eval line 1286 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1678199061024	Marionette	INFO	Stopped listening on port 55922
+Dynamically enable window occlusion 1
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+1678199862208	geckodriver	INFO	Listening on 127.0.0.1:64897
+1678199865252	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "64898" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\ASHDOWNX\\AppData\\Local\\Temp\\rust_mozprofileY37xR8"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1678199865663	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1678199865670	Marionette	INFO	Listening on port 64905
+Read port: 64905
+WebDriver BiDi listening on ws://127.0.0.1:64898
+1678199865835	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\ASHDOWNX\\AppData\\Local\\Temp\\rust_mozprofileY37xR8\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:64898/devtools/browser/207d7a88-336d-43c4-886c-980da81ade30
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+console.error: (new TypeError("lazy.AsyncShutdown.profileBeforeChange is undefined", "resource://services-settings/Database.jsm", 603))
+JavaScript warning: https://pagead2.googlesyndication.com/bg/QgTZnvWYncyBbJYBpDMbCbR8MV8sYHPEFXGodYZ8fLU.js line 2 > eval line 1327 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: , line 0: NS_ERROR_NOT_AVAILABLE
+1678201629890	geckodriver	INFO	Listening on 127.0.0.1:55108
+1678201632951	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "55109" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\ASHDOWNX\\AppData\\Local\\Temp\\rust_mozprofileMD68Ic"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1678201633610	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1678201633619	Marionette	INFO	Listening on port 55118
+WebDriver BiDi listening on ws://127.0.0.1:55109
+Read port: 55118
+1678201633921	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\ASHDOWNX\\AppData\\Local\\Temp\\rust_mozprofileMD68Ic\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:55109/devtools/browser/9f3c1afd-add1-4774-9783-68cbaea43dd9
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+console.error: (new TypeError("lazy.AsyncShutdown.profileBeforeChange is undefined", "resource://services-settings/Database.jsm", 603))
+JavaScript warning: https://pagead2.googlesyndication.com/bg/QgTZnvWYncyBbJYBpDMbCbR8MV8sYHPEFXGodYZ8fLU.js line 2 > eval line 3491 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+[GFX1-]: Failed to load a program object with a program binary: gpu_cache_update renderer ANGLE (NVIDIA, NVIDIA GeForce GTX 1050 Direct3D11 vs_5_0 ps_5_0, D3D11-27.21.14.5751)
+
+[2023-03-07T15:14:17Z ERROR webrender::device::gl] Failed to load a program object with a program binary: gpu_cache_update renderer ANGLE (NVIDIA, NVIDIA GeForce GTX 1050 Direct3D11 vs_5_0 ps_5_0, D3D11-27.21.14.5751)
+    
+[GFX1-]: shader-cache: Failed program_binary
+[2023-03-07T15:14:17Z ERROR webrender_bindings::program_cache] shader-cache: Failed program_binary
+[GFX1-]: Failed to compile vertex shader: gpu_cache_update
+
+[2023-03-07T15:14:17Z ERROR webrender::device::gl] Failed to compile vertex shader: gpu_cache_update
+    
+[GFX1-]: wr_renderer_render: OutOfMemory
+[GFX1-]: wr_renderer_render: Shader(Compilation("gpu_cache_update", ""))
+[GFX1-]: Failed to load a program object with a program binary: gpu_cache_update renderer ANGLE (NVIDIA, NVIDIA GeForce GTX 1050 Direct3D11 vs_5_0 ps_5_0, D3D11-27.21.14.5751)
+
+[2023-03-07T15:14:17Z ERROR webrender::device::gl] Failed to load a program object with a program binary: gpu_cache_update renderer ANGLE (NVIDIA, NVIDIA GeForce GTX 1050 Direct3D11 vs_5_0 ps_5_0, D3D11-27.21.14.5751)
+    
+[GFX1-]: shader-cache: Failed program_binary
+[2023-03-07T15:14:17Z ERROR webrender_bindings::program_cache] shader-cache: Failed program_binary
+[GFX1-]: Failed to compile vertex shader: gpu_cache_update
+
+[2023-03-07T15:14:17Z ERROR webrender::device::gl] Failed to compile vertex shader: gpu_cache_update
+    
+[GFX1-]: Handling webrender error 2
+[GFX1-[GFX1-]: Receive IPC clos][GFX1-e:[][GFX1-]: Receive IPC close with reason=AbnormalShu td :[wown Receive IPC close with reason=AbnormalShutdown
+[Parent 12168, Main Thread] WARNING: base::KillProcess refusing to terminate process handle 0: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:347
+GFX1-]: Receive IPC close witR
+ith reasone[GGh creaseF[GF[GX1-]:=AFX1-]: Receive IPC on=i bclose with reason=AbnorRnXAFvmaeceive IX11-]: Receive IPC closPC close with reason=AbnormalShutdowne-]: Receive IPC close with reason=AbnormalShutdownobe with reason=AbnormalShutdownnormalShutdown IPC close with reas
+
+rmalShutodl
+
+n=AbnormalShutdownSo
+hwunt
+down
+JavaScript error: , line 0: NS_ERROR_NOT_AVAILABLE
+ad a program object with a program binary: gpu_cache_update renderer ANGLE (NVIDIA, NVIDIA GeForce GTX 1050 Direct3D11 vs_5_0 ps_5_0, D3D11-27.21.14.5751)
+
+[2023-03-07T15:14:17Z ERROR webrender::device::gl] Failed to load a program object with a program binary: gpu_cache_update renderer ANGLE (NVIDIA, NVIDIA GeForce GTX 1050 Direct3D11 vs_5_0 ps_5_0, D3D11-27.21.14.5751)
+    
+[GFX1-]: shader-cache: Failed program_binary
+[2023-03-07T15:14:17Z ERROR webrender_bindings::program_cache] shader-cache: Failed program_binary
+[GFX1-]: Failed to compile vertex shader: gpu_cache_update
+
+[2023-03-07T15:14:17Z ERROR webrender::device::gl] Failed to compile vertex shader: gpu_cache_update
+    
+[GFX1-]: Handling webrender error 2
+[GFX1-]: Fallback WR to SW-WR + D3D11
+524288, y=524800, w=1024, h=476)
+[GFX1-]: DCompositionSurface::BeginDraw failed: 0x8007000e Rect(x=525312, y=524800, w=260, h=476)
+Dynamically enable window occlusion 1
+1678201981548	CDP	WARN	Failed to remove undefined (Could not parse path (undefined): NS_ERROR_FILE_UNRECOGNIZED_PATH)
+[GFX1-]: Handling webrender error 4
+[GFX1-]: Fallback WR to SW-WR + D3D11
+JavaScript error: resource://gre/modules/AsyncShutdown.sys.mjs, line 727: Error: Phase "quit-application-granted" is finished, it is too late to register completion condition "ContentParent: id=210d439ef00"
+JavaScript error: chrome://global/content/elements/browser-custom-element.js, line 635: TypeError: this.browsingContext is null
+console.warn: SearchService: "#init: abandoning init due to shutting down"
+JavaScript error: , line 0: uncaught exception: 2147500036
+JavaScript error: , line 0: uncaught exception: 2147500036
+JavaScript error: , line 0: uncaught exception: 2147500036
+JavaScript error: , line 0: uncaught exception: 2147500036
+JavaScript error: , line 0: uncaught exception: 2147500036
+JavaScript error: , line 0: uncaught exception: 2147500036
+JavaScript error: , line 0: uncaught exception: 2147500036
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1678202052258	geckodriver	INFO	Listening on 127.0.0.1:52892
+1678202055318	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "52893" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\ASHDOWNX\\AppData\\Local\\Temp\\rust_mozprofileLeXZIv"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1678202055764	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1678202055771	Marionette	INFO	Listening on port 52900
+WebDriver BiDi listening on ws://127.0.0.1:52893
+Read port: 52900
+1678202056067	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: Failed to link shader program: cs_clip_rectangle
+error X8000: D3D11 Internal Compiler Error: Invalid Bytecode: Failed to parse shader using reference shader parser: 0x8007000e
+
+Warning: D3D shader compilation failed with default flags. (ps_5_0)
+ Retrying with skip validation
+error X8000: D3D11 Internal Compiler Error: Invalid Bytecode: Failed to parse shader using reference shader parser: 0x8007000e
+
+Warning: D3D shader compilation failed with skip validation flags. (ps_5_0)
+ Retrying with skip optimization
+error X8000: D3D11 Internal Compiler Error: Invalid Bytecode: Failed to parse shader using reference shader parser: 0x8007000e
+
+Warning: D3D shader compilation failed with skip optimization flags. (ps_5_0)
+
+Failed to create D3D Shaders
+
+[2023-03-07T15:14:16Z ERROR webrender::device::gl] Failed to link shader program: cs_clip_rectangle
+    error X8000: D3D11 Internal Compiler Error: Invalid Bytecode: Failed to parse shader using reference shader parser: 0x8007000e
+    
+    Warning: D3D shader compilation failed with default flags. (ps_5_0)
+     Retrying with skip validation
+    error X8000: D3D11 Internal Compiler Error: Invalid Bytecode: Failed to parse shader using reference shader parser: 0x8007000e
+    
+    Warning: D3D shader compilation failed with skip validation flags. (ps_5_0)
+     Retrying with skip optimization
+    error X8000: D3D11 Internal Compiler Error: Invalid Bytecode: Failed to parse shader using reference shader parser: 0x8007000e
+    
+    Warning: D3D shader compilation failed with skip optimization flags. (ps_5_0)
+    
+    Failed to create D3D Shaders
+    
+[GFX1-]: Failed to link shader program: cs_clip_box_shadow
+error X8000: D3D11 Internal Compiler Error: Invalid Bytecode: Failed to parse shader using reference shader parser: 0x8007000e
+
+Warning: D3D shader compilation failed with default flags. (ps_5_0)
+ Retrying with skip validation
+error X8000: D3D11 Internal Compiler Error: Invalid Bytecode: Failed to parse shader using reference shader parser: 0x8007000e
+
+Warning: D3D shader compilation failed with skip validation flags. (ps_5_0)
+ Retrying with skip optimization
+error X8000: D3D11 Internal Compiler Error: Invalid Bytecode: Failed to parse shader using reference shader parser: 0x8007000e
+
+Warning: D3D shader compilation failed with skip optimization flags. (ps_5_0)
+
+Failed to create D3D Shaders
+
+[2023-03-07T15:14:16Z ERROR webrender::device::gl] Failed to link shader program: cs_clip_box_shadow
+    error X8000: D3D11 Internal Compiler Error: Invalid Bytecode: Failed to parse shader using reference shader parser: 0x8007000e
+    
+    Warning: D3D shader compilation failed with default flags. (ps_5_0)
+     Retrying with skip validation
+    error X8000: D3D11 Internal Compiler Error: Invalid Bytecode: Failed to parse shader using reference shader parser: 0x8007000e
+    
+    Warning: D3D shader compilation failed with skip validation flags. (ps_5_0)
+     Retrying with skip optimization
+    error X8000: D3D11 Internal Compiler Error: Invalid Bytecode: Failed to parse shader using reference shader parser: 0x8007000e
+    
+    Warning: D3D shader compilation failed with skip optimization flags. (ps_5_0)
+    
+    Failed to create D3D Shaders
+    
+[GFX1-]: Failed to link shader program: cs_clip_rectangle
+
+[2023-03-07T15:14:16Z ERROR webrender::device::gl] Failed to link shader program: cs_clip_rectangle
+    
+[GFX1-]: Failed to compile vertex shader: brush_image_ALPHA_PASS_TEXTURE_2D
+
+[2023-03-07T15:14:16Z ERROR webrender::device::gl] Failed to compile vertex shader: brush_image_ALPHA_PASS_TEXTURE_2D
+    
+[GFX1-]: Failed to compile vertex shader: brush_linear_gradient
+
+[2023-03-07T15:14:16Z ERROR webrender::device::gl] Failed to compile vertex shader: brush_linear_gradient
+    
+[GFX1-]: DCompositionSurface::BeginDraw failed: 0x8007000e Rect(x=524288, y=524288, w=1024, h=512)
+[GFX1-]: Failed to compile vertex shader: brush_solid
+
+[2023-03-07T15:14:16Z ERROR webrender::device::gl] Failed to compile vertex shader: brush_solid
+    
+[GFX1-]: Failed to compile vertex shader: brush_image_ALPHA_PASS_TEXTURE_2D
+
+[2023-03-07T15:14:16Z ERROR webrender::device::gl] Failed to compile vertex shader: brush_image_ALPHA_PASS_TEXTURE_2D
+    
+[GFX1-]: Failed to compile vertex shader: brush_image_ALPHA_PASS_TEXTURE_2D
+
+[2023-03-07T15:14:16Z ERROR webrender::device::gl] Failed to compile vertex shader: brush_image_ALPHA_PASS_TEXTURE_2D
+    
+[GFX1-]: Failed to compile vertex shader: brush_image_ALPHA_PASS_TEXTURE_2D
+
+[2023-03-07T15:14:16Z ERROR webrender::device::gl] Failed to compile vertex shader: brush_image_ALPHA_PASS_TEXTURE_2D
+    
+[GFX1-]: Failed to compile vertex shader: brush_solid_ALPHA_PASS
+
+[2023-03-07T15:14:16Z ERROR webrender::device::gl] Failed to compile vertex shader: brush_solid_ALPHA_PASS
+    
+[GFX1-]: Failed to compile vertex shader: brush_image_ALPHA_PASS_TEXTURE_2D
+
+[2023-03-07T15:14:16Z ERROR webrender::device::gl] Failed to compile vertex shader: brush_image_ALPHA_PASS_TEXTURE_2D
+    
+[GFX1-]: Failed to compile vertex shader: ps_text_run_ALPHA_PASS_DUAL_SOURCE_BLENDING_TEXTURE_2D
+
+[2023-03-07T15:14:16Z ERROR webrender::device::gl] Failed to compile vertex shader: ps_text_run_ALPHA_PASS_DUAL_SOURCE_BLENDING_TEXTURE_2D
+    
+[GFX1-]: Failed to compile vertex shader: brush_opacity_ALPHA_PASS
+
+[2023-03-07T15:14:16Z ERROR webrender::device::gl] Failed to compile vertex shader: brush_opacity_ALPHA_PASS
+    
+[GFX1-]: Failed to compile vertex shader: brush_image_ALPHA_PASS_TEXTURE_2D
+
+[2023-03-07T15:14:16Z ERROR webrender::device::gl] Failed to compile vertex shader: brush_image_ALPHA_PASS_TEXTURE_2D
+    
+[GFX1-]: Failed to compile vertex shader: brush_image_ALPHA_PASS_TEXTURE_2D
+
+[2023-03-07T15:14:16Z ERROR webrender::device::gl] Failed to compile vertex shader: brush_image_ALPHA_PASS_TEXTURE_2D
+    
+[GFX1-]: Failed to compile vertex shader: ps_text_run_ALPHA_PASS_DUAL_SOURCE_BLENDING_TEXTURE_2D
+
+[2023-03-07T15:14:16Z ERROR webrender::device::gl] Failed to compile vertex shader: ps_text_run_ALPHA_PASS_DUAL_SOURCE_BLENDING_TEXTURE_2D
+    
+[GFX1-]: DCompositionSurface::BeginDraw failed: 0x8007000e Rect(x=525312, y=525312, w=260, h=49)
+[GFX1-]: Failed to compile vertex shader: brush_solid
+
+[2023-03-07T15:14:16Z ERROR webrender::device::gl] Failed to compile vertex shader: brush_solid
+    
+[GFX1-]: DCompositionSurface::BeginDraw failed: 0x8007000e Rect(x=525312, y=524288, w=260, h=512)
+[GFX1-]: Failed to compile vertex shader: brush_solid
+
+[2023-03-07T15:14:16Z ERROR webrender::device::gl] Failed to compile vertex shader: brush_solid
+    
+[GFX1-]: Failed to compile vertex shader: brush_image_ALPHA_PASS_TEXTURE_2D
+
+[2023-03-07T15:14:16Z ERROR webrender::device::gl] Failed to compile vertex shader: brush_image_ALPHA_PASS_TEXTURE_2D
+    
+[GFX1-]: Failed to compile vertex shader: brush_image_ALPHA_PASS_TEXTURE_2D
+
+[2023-03-07T15:14:16Z ERROR webrender::device::gl] Failed to compile vertex shader: brush_image_ALPHA_PASS_TEXTURE_2D
+    
+[GFX1-]: Failed to compile vertex shader: brush_image_ALPHA_PASS_TEXTURE_2D
+
+[2023-03-07T15:14:16Z ERROR webrender::device::gl] Failed to compile vertex shader: brush_image_ALPHA_PASS_TEXTURE_2D
+    
+[GFX1-]: Failed to compile vertex shader: brush_solid_ALPHA_PASS
+
+[2023-03-07T15:14:16Z ERROR webrender::device::gl] Failed to compile vertex shader: brush_solid_ALPHA_PASS
+    
+[GFX1-]: Failed to compile vertex shader: brush_image_ALPHA_PASS_TEXTURE_2D
+
+[2023-03-07T15:14:16Z ERROR webrender::device::gl] Failed to compile vertex shader: brush_image_ALPHA_PASS_TEXTURE_2D
+    
+[GFX1-]: Failed to compile vertex shader: brush_image_ALPHA_PASS_TEXTURE_2D
+
+[2023-03-07T15:14:16Z ERROR webrender::device::gl] Failed to compile vertex shader: brush_image_ALPHA_PASS_TEXTURE_2D
+    
+[GFX1-]: Failed to compile vertex shader: brush_solid
+
+[2023-03-07T15:14:16Z ERROR webrender::device::gl] Failed to compile vertex shader: brush_solid
+    
+[GFX1-]: DCompositionSurface::BeginDraw failed: 0x8007000e Rect(x=524288, y=524800, w=1024, h=512)
+[GFX1-]: Failed to compile vertex shader: brush_solid
+
+[2023-03-07T15:14:16Z ERROR webrender::device::gl] Failed to compile vertex shader: brush_solid
+    
+[GFX1-]: DCompositionSurface::BeginDraw failed: 0x8007000e Rect(x=525312, y=524800, w=260, h=512)
+[GFX1-]: Failed to compile vertex shader: brush_solid
+
+[2023-03-07T15:14:16Z ERROR webrender::device::gl] Failed to compile vertex shader: brush_solid
+    
+[GFX1-]: DCompositionSurface::BeginDraw failed: 0x8007000e Rect(x=525451, y=524304, w=104, h=12)
+[GFX1-]: Failed to compile vertex shader: brush_image_ALPHA_PASS_TEXTURE_2D
+
+[2023-03-07T15:14:16Z ERROR webrender::device::gl] Failed to compile vertex shader: brush_image_ALPHA_PASS_TEXTURE_2D
+    
+[GFX1-]: wr_renderer_render: Shader(Link("cs_clip_rectangle", "error X8000: D3D11 Internal Compiler Error: Invalid Bytecode: Failed to parse shader using reference shader parser: 0x8007000e\n\nWarning: D3D shader compilation failed with default flags. (ps_5_0)\n Retrying with skip validation\nerror X8000: D3D11 Internal Compiler Error: Invalid Bytecode: Failed to parse shader using reference shader parser: 0x8007000e\n\nWarning: D3D shader compilation failed with skip validation flags. (ps_5_0)\n Retrying with skip optimization\nerror X8000: D3D11 Internal Compiler Error: Invalid Bytecode: Failed to parse shader using reference shader parser: 0x8007000e\n\nWarning: D3D shader compilation failed with skip optimization flags. (ps_5_0)\n\nFailed to create D3D Shaders\n"))
+[GFX1-]: wr_renderer_render: Shader(Link("cs_clip_box_shadow", "error X8000: D3D11 Internal Compiler Error: Invalid Bytecode: Failed to parse shader using reference shader parser: 0x8007000e\n\nWarning: D3D shader compilation failed with default flags. (ps_5_0)\n Retrying with skip validation\nerror X8000: D3D11 Internal Compiler Error: Invalid Bytecode: Failed to parse shader using reference shader parser: 0x8007000e\n\nWarning: D3D shader compilation failed with skip validation flags. (ps_5_0)\n Retrying with skip optimization\nerror X8000: D3D11 Internal Compiler Error: Invalid Bytecode: Failed to parse shader using reference shader parser: 0x8007000e\n\nWarning: D3D shader compilation failed with skip optimization flags. (ps_5_0)\n\nFailed to create D3D Shaders\n"))
+[GFX1-]: wr_renderer_render: Shader(Link("cs_clip_rectangle", ""))
+[GFX1-]: wr_renderer_render: Shader(Compilation("brush_image_ALPHA_PASS_TEXTURE_2D", ""))
+[GFX1-]: wr_renderer_render: Shader(Compilation("brush_linear_gradient", ""))
+[GFX1-]: wr_renderer_render: Shader(Compilation("brush_solid", ""))
+[GFX1-]: wr_renderer_render: Shader(Compilation("brush_image_ALPHA_PASS_TEXTURE_2D", ""))
+[GFX1-]: wr_renderer_render: Shader(Compilation("brush_image_ALPHA_PASS_TEXTURE_2D", ""))
+[GFX1-]: wr_renderer_render: Shader(Compilation("brush_image_ALPHA_PASS_TEXTURE_2D", ""))
+[GFX1-]: wr_renderer_render: Shader(Compilation("brush_solid_ALPHA_PASS", ""))
+[GFX1-]: wr_renderer_render: Shader(Compilation("brush_image_ALPHA_PASS_TEXTURE_2D", ""))
+[GFX1-]: wr_renderer_render: Shader(Compilation("ps_text_run_ALPHA_PASS_DUAL_SOURCE_BLENDING_TEXTURE_2D", ""))
+[GFX1-]: wr_renderer_render: Shader(Compilation("brush_opacity_ALPHA_PASS", ""))
+[GFX1-]: wr_renderer_render: Shader(Compilation("brush_image_ALPHA_PASS_TEXTURE_2D", ""))
+[GFX1-]: wr_renderer_render: Shader(Compilation("brush_image_ALPHA_PASS_TEXTURE_2D", ""))
+[GFX1-]: wr_renderer_render: Shader(Compilation("ps_text_run_ALPHA_PASS_DUAL_SOURCE_BLENDING_TEXTURE_2D", ""))
+[GFX1-]: wr_renderer_render: Shader(Compilation("brush_solid", ""))
+[GFX1-]: wr_renderer_render: Shader(Compilation("brush_solid", ""))
+[GFX1-]: wr_renderer_render: Shader(Compilation("brush_image_ALPHA_PASS_TEXTURE_2D", ""))
+[GFX1-]: wr_renderer_render: Shader(Compilation("brush_image_ALPHA_PASS_TEXTURE_2D", ""))
+[GFX1-]: wr_renderer_render: Shader(Compilation("brush_image_ALPHA_PASS_TEXTURE_2D", ""))
+[GFX1-]: wr_renderer_render: Shader(Compilation("brush_solid_ALPHA_PASS", ""))
+[GFX1-]: wr_renderer_render: Shader(Compilation("brush_image_ALPHA_PASS_TEXTURE_2D", ""))
+[GFX1-]: wr_renderer_render: Shader(Compilation("brush_image_ALPHA_PASS_TEXTURE_2D", ""))
+[GFX1-]: wr_renderer_render: Shader(Compilation("brush_solid", ""))
+[GFX1-]: wr_renderer_render: Shader(Compilation("brush_solid", ""))
+[GFX1-]: wr_renderer_render: Shader(Compilation("brush_solid", ""))
+[GFX1-]: wr_renderer_render: Shader(Compilation("brush_image_ALPHA_PASS_TEXTURE_2D", ""))
+[GFX1-]: wr_renderer_render: OutOfMemory
+[GFX1-]: Failed to load a program object with a program binary: gpu_cache_update renderer ANGLE (NVIDIA, NVIDIA GeForce GTX 1050 Direct3D11 vs_5_0 ps_5_0, D3D11-27.21.14.5751)
+
+[2023-03-07T15:14:16Z ERROR webrender::device::gl] Failed to load a program object with a program binary: gpu_cache_update renderer ANGLE (NVIDIA, NVIDIA GeForce GTX 1050 Direct3D11 vs_5_0 ps_5_0, D3D11-27.21.14.5751)
+    
+[GFX1-]: shader-cache: Failed program_binary
+[2023-03-07T15:14:16Z ERROR webrender_bindings::program_cache] shader-cache: Failed program_binary
+[GFX1-]: Failed to compile vertex shader: gpu_cache_update
+
+[2023-03-07T15:14:16Z ERROR webrender::device::gl] Failed to compile vertex shader: gpu_cache_update
+    
+[GFX1-]: wr_renderer_render: Shader(Compilation("gpu_cache_update", ""))
+[GFX1-]: Handling webrender error 4
+[GFX1-]: Fallback WR to SW-WR + D3D11
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\ASHDOWNX\\AppData\\Local\\Temp\\rust_mozprofileLeXZIv\\search.json.mozlz4", (void 0)))
+[GFX1-]: [D3D11] create swap chain failed: 0x8007000e, 0
+[GFX1-]: Failed to initialize CompositorD3D11 for SWGL: FEATURE_FAILURE_D3D11_SWAP_CHAIN
+out of memory: 0x0000000000000080 bytes requested
+[GFX1-]: wr_renderer_render: OutOfMemory
+[GFX1-]: Handling webrender error 2
+[GFX1-]: Fallback SW-WR + D3D11 to SW-WR
+A content process crashed and MOZ_CRASHREPORTER_SHUTDOWN is set, shutting down
+1678202058068	Marionette	INFO	Stopped listening on port 52900
+Dynamically enable window occlusion 1
+1678202058085	CDP	WARN	Failed to remove undefined (Could not parse path (undefined): NS_ERROR_FILE_UNRECOGNIZED_PATH)
+console.warn: SearchService: "#init: abandoning init due to shutting down"
+JavaScript error: , line 0: uncaught exception: 2147500036
+JavaScript error: , line 0: uncaught exception: 2147500036
+JavaScript error: , line 0: uncaught exception: 2147500036
+JavaScript error: , line 0: uncaught exception: 2147500036
+JavaScript error: , line 0: uncaught exception: 2147500036
+JavaScript error: , line 0: uncaught exception: 2147500036
+console.error: Region.sys.mjs: "Error fetching region" (new TypeError("NetworkError when attempting to fetch resource.", ""))
+console.error: Region.sys.mjs: "Failed to fetch region" (new Error("NO_RESULT", "resource://gre/modules/Region.sys.mjs", 416))
+1678202233706	geckodriver	INFO	Listening on 127.0.0.1:50724
+1678202236742	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "50725" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\ASHDOWNX\\AppData\\Local\\Temp\\rust_mozprofiledowKhm"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1678202237178	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1678202237185	Marionette	INFO	Listening on port 50732
+WebDriver BiDi listening on ws://127.0.0.1:50725
+Read port: 50732
+1678202237474	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\ASHDOWNX\\AppData\\Local\\Temp\\rust_mozprofiledowKhm\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:50725/devtools/browser/3e0a86eb-905c-49ab-85c8-00a3087f99ad
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+console.error: (new TypeError("lazy.AsyncShutdown.profileBeforeChange is undefined", "resource://services-settings/Database.jsm", 603))
+[GFX1-]: DCompositionSurface::BeginDraw failed: 0x8007000e Rect(x=524352, y=524800, w=811, h=512)
+[GFX1-]: Handling webrender error 4
+[GFX1-]: Fallback WR to SW-WR + D3D11
+JavaScript error: , line 0: uncaught exception: out of memory
+out of memory: 0x0000000000000080 bytes requested
+A content process crashed and MOZ_CRASHREPORTER_SHUTDOWN is set, shutting down
+[GFX1-]: Failed to create StagingTexture: Size(1024,512)
+[GFX1-]: Handling webrender error 3
+[GFX1-]: Fallback SW-WR + D3D11 to SW-WR
+[GFX1-]: Failed to allocate Texture2D: Size(1024,512)
+[GFX1-]: Failed to allocate Texture2D: Size(1024,512)
+[GFX1-]: Failed to allocate Texture2D: Size(1024,512)
+[GFX1-]: Failed to allocate Texture2D: Size(102out of memory: 0x000000000000A000 bytes requested4,512)
+
+out of memory: 0x0000000000000080 bytes requested
+[GFX1-]: MapTile failed aValidRect: Rect(x=0, y=0, w=260, h=49)
+[GFX1-]: MapTile failed aValidRect: Rect(x=0, y=0, w=260, h=512)
+[GFX1-]: MapTile failed aValidRect: Rect(x=0, y=0, w=1024, h=49)
+[GFX1-]: MapTile failed aValidRect: Rect(x=0, y=0, w=1024, h=512)
+[GFX1-]: MapTile failed aValidRect: Rect(x=0, y=0, w=260, h=512)
+[GFX1-]: wr_renderer_render: OutOfMemory
+A content process crashed and MOZ_CRASHREPORTER_SHUTDOWN is set, shutting down
+JavaScript error: chrome://global/content/elements/browser-custom-element.js, line 1659: Error: permitUnload is already running for this tab.
+JavaScript error: resource:///modules/sessionstore/SessionStore.sys.mjs, line 2189: TypeError: subject.QueryInterface is not a function
+A content process crashed and MOZ_CRASHREPORTER_SHUTDOWN is set, shutting down
+1678202248407	Marionette	INFO	Stopped listening on port 50732
+Dynamically enable window occlusion 1
+1678203457620	geckodriver	INFO	Listening on 127.0.0.1:62414
+1678203460696	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "62415" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\ASHDOWNX\\AppData\\Local\\Temp\\rust_mozprofileDG4F46"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1678203461147	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1678203461157	Marionette	INFO	Listening on port 62424
+Read port: 62424
+WebDriver BiDi listening on ws://127.0.0.1:62415
+1678203461368	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\ASHDOWNX\\AppData\\Local\\Temp\\rust_mozprofileDG4F46\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:62415/devtools/browser/a6a49a2c-8e05-4416-9e1d-aee86b93bfd5
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+console.error: (new TypeError("lazy.AsyncShutdown.profileBeforeChange is undefined", "resource://services-settings/Database.jsm", 603))
+JavaScript warning: https://pagead2.googlesyndication.com/bg/YvrCvW6enSrSZlpWfT49hCwWEU4IwRN__jQypf5gIC4.js line 2 > eval line 7164 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1678204356744	geckodriver	INFO	Listening on 127.0.0.1:62605
+1678204359783	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "62606" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\ASHDOWNX\\AppData\\Local\\Temp\\rust_mozprofileHdDuEu"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1678204360204	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1678204360211	Marionette	INFO	Listening on port 62615
+Read port: 62615
+WebDriver BiDi listening on ws://127.0.0.1:62606
+1678204360364	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\ASHDOWNX\\AppData\\Local\\Temp\\rust_mozprofileHdDuEu\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:62606/devtools/browser/4cde4ab0-79e7-4193-a385-a6c1676bb331
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+console.error: (new TypeError("lazy.AsyncShutdown.profileBeforeChange is undefined", "resource://services-settings/Database.jsm", 603))
+JavaScript warning: https://pagead2.googlesyndication.com/bg/YvrCvW6enSrSZlpWfT49hCwWEU4IwRN__jQypf5gIC4.js line 2 > eval line 4298 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: , line 0: NS_ERROR_NOT_AVAILABLE
+JavaScript error: , line 0: NotReadableError: Could not write chunk (size = 1032) to file C:\Users\ASHDOWNX\AppData\Local\Temp\rust_mozprofileHdDuEu\bookmarkbackups\bookmarks-2023-03-07.jsonlz4.tmp. The file may be corrupt.
+console.error: "Problem getting stored prefs for TopSites"
+JavaScript error: , line 0: uncaught exception: null
+ override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1678204724342	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1678204724350	Marionette	INFO	Listening on port 64391
+Read port: 64391
+WebDriver BiDi listening on ws://127.0.0.1:64384
+1678204724516	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\ASHDOWNX\\AppData\\Local\\Temp\\rust_mozprofilehBrQjm\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:64384/devtools/browser/47d03dbd-0cc7-42b0-86dd-07aeb4f4f7f1
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+console.error: (new TypeError("lazy.AsyncShutdown.profileBeforeChange is undefined", "resource://services-settings/Database.jsm", 603))
+JavaScript warning: https://pagead2.googlesyndication.com/bg/YvrCvW6enSrSZlpWfT49hCwWEU4IwRN__jQypf5gIC4.js line 2 > eval line 5113 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: , line 0: NS_ERROR_NOT_AVAILABLE
+JavaScript error: , line 0: NotReadableError: Could not write chunk (size = 1033) to file C:\Users\ASHDOWNX\AppData\Local\Temp\rust_mozprofilehBrQjm\bookmarkbackups\bookmarks-2023-03-07.jsonlz4.tmp. The file may be corrupt.
+console.error: "Problem getting stored prefs for TopSites"
+JavaScript error: , line 0: uncaught exception: null
+ override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1678204994739	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1678204994748	Marionette	INFO	Listening on port 64555
+Read port: 64555
+WebDriver BiDi listening on ws://127.0.0.1:64547
+1678204994927	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\ASHDOWNX\\AppData\\Local\\Temp\\rust_mozprofile7R4ryx\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:64547/devtools/browser/69e8d27d-8a6f-455f-a706-d0486ba09bd6
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+console.error: (new TypeError("lazy.AsyncShutdown.profileBeforeChange is undefined", "resource://services-settings/Database.jsm", 603))
+JavaScript warning: https://pagead2.googlesyndication.com/bg/YvrCvW6enSrSZlpWfT49hCwWEU4IwRN__jQypf5gIC4.js line 2 > eval line 5499 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.error: services.settings: 
+  Message: StorageError: Storage error: AbortError: IndexedDB: security-state/intermediates importChanges() IndexedDB:  importChanges() in security-state/intermediates A request was aborted, for example through a call to IDBTransaction.abort.
+  Stack:
+    StorageError@resource://services-settings/RemoteSettingsClient.jsm:162:5
+_adjustedError@resource://services-settings/RemoteSettingsClient.jsm:933:14
+maybeSync@resource://services-settings/RemoteSettingsClient.jsm:821:38
+
+console.log: "RemoteSettingsWorker error: QuotaExceededError: IndexedDB:  execute() The current transaction exceeded its quota limitations."
+console.error: (new RemoteSettingsWorkerError("QuotaExceededError: IndexedDB:  execute() The current transaction exceeded its quota limitations.", "resource://services-settings/RemoteSettingsWorker.jsm", 46))
+console.error: services.settings: 
+  Message: StorageError: Storage error: QuotaExceededError: IndexedDB: security-state/onecrl importChanges() IndexedDB:  importChanges() in security-state/onecrl The current transaction exceeded its quota limitations.
+  Stack:
+    StorageError@resource://services-settings/RemoteSettingsClient.jsm:162:5
+_adjustedError@resource://services-settings/RemoteSettingsClient.jsm:933:14
+maybeSync@resource://services-settings/RemoteSettingsClient.jsm:821:38
+
+console.error: (new StorageError("Storage error: AbortError: IndexedDB: security-state/intermediates importChconsole.error: services.settings: 
+  Message: AbortError: IndexedDB: blocklists/addons-bloomfilters getLastModified() IndexedDB:  execute() A request was aborted, for example through a call to IDBTransaction.JavaScript error: , line 0: NotReadableError: Could not write chunk (size = 1035) to file C:\Users\ASHDOWNX\AppData\Local\Temp\rust_mozprofile7R4ryx\bookmarkbackups\bookmarks-2023-03-07.jsonlz4.tmp. The file may be corrupt.
+console.error: "Problem getting stored prefs for TopSites"
+JavaScript error: , line 0: uncaught exception: null
+JavaScript error: , line 0: NS_ERROR_NOT_AVAILABLE
+rough a call to IDBTransaction.abort.
+console.error: (new AbortError("IndexedDB: main/nimbus-desktop-experiments getLastModified() IndexedDB:  execute() A request was aborted, for example through a call to IDBTransaction.abort.", "resource://services-settings/IDBHelpers.jsm", 18))
+JavaScript error: , line 0: NotReadableError: Could not write chunk (size = 1042) to file C:\Users\ASHDOWNX\AppData\Local\Temp\rust_mozprofileFWLtAr\bookmarkbackups\bookmarks-2023-03-07.jsonlz4.tmp. The file may be corrupt.
+console.error: "Problem getting stored prefs for TopSites"
+JavaScript error: , line 0: uncaught exception: null
+JavaScript error: , line 0: NS_ERROR_NOT_AVAILABLE
+by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+console.error: (new TypeError("lazy.AsyncShutdown.profileBeforeChange is undefined", "resource://services-settings/Database.jsm", 603))
+JavaScript warning: https://pagead2.googlesyndication.com/bg/YvrCvW6enSrSZlpWfT49hCwWEU4IwRN__jQypf5gIC4.js line 2 > eval line 6257 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.error: "Problem getting stored prefs for TopSites"
+JavaScript error: , line 0: uncaught exception: null
+console.log: "RemoteSettingsWorker error: QuotaExceededError: IndexedDB:  execute() The current transaction exceeded its quota limitations."
+console.error: (new RemoteSettingsWorkerError("QuotaExceededError: IndexedDB:  execute() The current transaction exceeded its quota limitations.", "resource://services-settings/RemoteSettingsWorker.jsm", 46))
+console.error: services.settings: 
+  Message: StorageError: Storage error: QuotaExceededError: IndexedDB: blocklists/addons-bloomfilters importChanges() IndexedDB:  importChanges() in blocklists/addons-bloomfilters The current transaction exceeded its quota limitations.
+  Stack:
+    StorageError@resource://services-settings/RemoteSettingsClient.jsm:162:5
+_adjustedError@resource://services-settings/RemoteSettingsClient.jsm:933:14
+maybeSync@resource://services-settings/RemoteSettingsClient.jsm:821:38
+
+console.error: services.settings: 
+  Message: StorageError: Storage error: InvalidStateError: IndexedDB: blocklists/gfx importChanges() IndexedDB: collections, timestamps, records importChanges() in blocklists/gfx A mutation operation was attempted on a database that did not allow mutations.
+  Stack:
+    StorageError@resource://services-settings/RemoteSettingsClient.jsm:162:5
+_adjustedError@resource://services-settings/RemoteSettingsClient.jsm:933:14
+maybeSync@resource://services-settings/RemoteSettingsClient.jsm:821:38
+
+console.error: services.settings: 
+  Message: StorageError: Storage error: QuotaExceededError: IndexedDB: main/normandy-recipes-capabilities importChanges() IndexedDB:  importChanges() in main/normandy-recipes-capabilities The current transaction exceeded its quota limitations.
+  Stack:
+    StorageError@resource://services-settings/RemoteSettingsClient.jsm:162:5
+_adjustedError@resource://services-settings/RemoteSettingsClient.jsm:933:14
+maybeSync@resource://services-settings/RemoteSettingsClient.jsm:821:38
+
+console.error: services.settings: 
+  Message: StorageError: Storage error: InvalidStateError: IndexedDB: main/search-telemetry-v2 importChanges() IndexedDB: collections, timestamps, records importChanges() in main/search-telemetry-v2 A mutation operation was attempted on a database that did not allow mutations.
+  Stack:
+    StorageError@resource://services-settings/RemoteSettingsClient.jsm:162:5
+_adjustedError@resource://services-settings/RemoteSettingsClient.jsm:933:14
+maybeSync@resource://services-settings/RemoteSettingsClient.jsm:821:38
+
+console.log: "RemoteSettingsWorker error: QuotaExceededError: IndexedDB:  execute() The current transaction exceeded its quota limitations."
+console.error: (new RemoteSettingsWorkerError("QuotaExceededError: IndexedDB:  execute() The current transaction exceeded its quota limitations.", "resource://services-settings/RemoteSettingsWorker.jsm", 46))
+console.error: services.settings: 
+  Message: StorageError: Storage error: QuotaExceededError: IndexedDB: main/devtools-compatibility-browsers importChanges() IndexedDB:  importChanges() in main/devtools-compatibility-browsers The current transaction exceeded its quota limitations.
+  Stack:
+    StorageError@resource://services-settings/RemoteSettingsClient.jsm:162:5
+_adjustedError@resource://services-settings/RemoteSettingsClient.jsm:933:14
+maybeSync@resource://services-settings/RemoteSettingsClient.jsm:821:38
+
+console.error: services.settings: 
+  Message: StorageError: Storage error: InvalidStateError: IndexedDB: main/search-config importChanges() IndexedDB: collections, timestamps, records importChanges() in main/search-config A mutation operation was attempted on a database that did not allow mutations.
+  Stack:
+    StorageError@resource://services-settings/RemoteSettingsClient.jsm:162:5
+_adjustedError@resource://services-settings/RemoteSettingsClient.jsm:933:14
+maybeSync@resource://services-settings/RemoteSettingsClient.jsm:821:38
+
+console.log: "RemoteSettingsWorker error: QuotaExceededError: IndexedDB:  execute() The current transaction exceeded its quota limitations."
+console.error: (new RemoteSettingsWorkerError("QuotaExceededError: IndexedDB:  execute() The current transaction exceeded its quota limitations.", "resource://services-settings/RemoteSettingsWorker.jsm", 46))
+console.error: services.settings: 
+  Message: StorageError: Storage error: QuotaExceededError: IndexedDB: main/cookie-banner-rules-list importChanges() IndexedDB:  importChanges() in main/cookie-banner-rules-list The current transaction exceeded its quota limitations.
+  Stack:
+    StorageError@resource://services-settings/RemoteSettingsClient.jsm:162:5
+_adjustedError@resource://services-settings/RemoteSettingsClient.jsm:933:14
+maybeSync@resource://services-settings/RemoteSettingsClient.jsm:821:38
+
+console.error: (new AbortError("IndexedDB: main/sites-classification list() IndexedDB:  execute() A request was aborted, for example through a call to IDBTransaction.abort.", "resource://services-settings/IDBHelpers.jsm", 18))
+console.error: services.settings: 
+  Message: StorageError: Storage error: InvalidStateError: IndexedDB: main/sites-classification importChanges() IndexedDB: collections, timestamps, records importChanges() in main/sites-classification A mutation operation was attempted on a database that did not allow mutations.
+  Stack:
+    StorageError@resource://services-settings/RemoteSettingsClient.jsm:162:5
+_adjustedError@resource://services-settings/RemoteSettingsClient.jsm:933:14
+maybeSync@resource://services-settings/RemoteSettingsClient.jsm:821:38
+
+console.error: (new AbortError("IndexedDB: main/focus-experiments getLastModified() IndexedDB:  execute() A request was aborted, for example through a call to IDBTransaction.abort.", "resource://services-settings/IDBHelpers.jsm", 18))
+JavaScript error: , line 0: NotReadableError: Could not write chunk (size = 1038) to file C:\Users\ASHDOWNX\AppData\Local\Temp\rust_mozprofilek6ciHU\bookmarkbackups\bookmarks-2023-03-07.jsonlz4.tmp. The file may be corrupt.
+ate: Error getting state: Error: Phase "profile-before-change" is finished, it is too late to register completion condition "OS.File: flush I/O queued before profileBeforeChange" at addBlocker@resource://gre/modules/AsyncShutdown.sys.mjs:727:15
+addBlocker@resource://gre/modules/AsyncShutdown.sys.mjs:523:26
+addBlocker@resource://gre/modules/AsyncShutdown.sys.mjs:458:15
+setupShutdown@resource://gre/modules/osfile/osfile_async_front.jsm:1548:28
+@resource://gre/modules/osfile/osfile_async_front.jsm:1568:16
+@resource://gre/modules/osfile.jsm:12:30
+@resource://gre/modules/TelemetryStorage.sys.mjs:10:28
+_checkPendingPings@resource://gre/modules/TelemetrySend.sys.mjs:863:17
+setup@resource://gre/modules/TelemetrySend.sys.mjs:803:18
+setup@resource://gre/modules/TelemetrySend.sys.mjs:241:30
+setupTelemetry/this._delayedInitTask<@resource://gre/modules/TelemetryControllerParent.sys.mjs:829:36
+observe@resource://gre/modules/AsyncShutdown.sys.mjs:576:16
+
+WARNING: Error: Phase "profile-before-change" is finished, it is too late to register completion condition "OS.File: flush I/O queued before profileBeforeChange"
+WARNING: addBlocker@resource://gre/modules/AsyncShutdown.sys.mjs:727:15
+addBlocker@resource://gre/modules/AsyncShutdown.sys.mjs:523:26
+addBlocker@resource://gre/modules/AsyncShutdown.sys.mjs:458:15
+setupShutdown@resource://gre/modules/osfile/osfile_async_front.jsm:1548:28
+@resource://gre/modules/osfile/osfile_async_front.jsm:1568:16
+@resource://gre/modules/osfile.jsm:12:30
+@resource://gre/modules/TelemetryStorage.sys.mjs:10:28
+_checkPendingPings@resource://gre/modules/TelemetrySend.sys.mjs:863:17
+setup@resource://gre/modules/TelemetrySend.sys.mjs:803:18
+setup@resource://gre/modules/TelemetrySend.sys.mjs:241:30
+setupTelemetry/this._delayedInitTask<@resource://gre/modules/TelemetryControllerParent.sys.mjs:829:36
+observe@resource://gre/modules/AsyncShutdown.sys.mjs:576:16
+
+JavaScript error: resource://gre/modules/AsyncShutdown.sys.mjs, line 727: Error: Phase "profile-before-change" is finished, it is too late to register completion condition "OS.File: flush I/O queued before profileBeforeChange"
+JavaScript error: resource://gre/modules/AsyncShutdown.sys.mjs, line 727: Error: Phase "profile-before-change" is finished, it is too late to register completion condition "OS.File: flush I/O queued before profileBeforeChange"
+JavaScript error: resource://gre/modules/AsyncShutdown.sys.mjs, line 727: Error: Phase "profile-before-change" is finished, it is too late to register completion condition "OS.File: flush I/O queued before profileBeforeChange"
+JavaScript error: resource://gre/modules/AsyncShutdown.sys.mjs, line 727: Error: Phase "profile-before-change" is finished, it is too late to register completion condition "OS.File: flush I/O queued before profileBeforeChange"
+JavaScript error: resource://gre/modules/AsyncShutdown.sys.mjs, line 727: Error: Phase "profile-before-change" is finished, it is too late to register completion condition "OS.File: flush I/O queued before profileBeforeChange"
+JavaScript error: resource://gre/modules/AsyncShutdown.sys.mjs, line 727: Error: Phase "profile-before-change" is finished, it is too late to register completion condition "OS.File: flush I/O queued before profileBeforeChange"
+1678205808574	geckodriver	INFO	Listening on 127.0.0.1:49712
+1678205811609	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "49713" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\ASHDOWNX\\AppData\\Local\\Temp\\rust_mozprofile8kqWV7"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1678205812277	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1678205812288	Marionette	INFO	Listening on port 49720
+Read port: 49720
+WebDriver BiDi listening on ws://127.0.0.1:49713
+1678205812487	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\ASHDOWNX\\AppData\\Local\\Temp\\rust_mozprofile8kqWV7\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:49713/devtools/browser/fd09db6c-b5ed-4863-b270-ae518be85d72
+JavaScript error: , line 0: uncaught exception: null
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+console.error: (new TypeError("lazy.AsyncShutdown.profileBeforeChange is undefined", "resource://services-settings/Database.jsm", 603))
+1678206815997	geckodriver	INFO	Listening on 127.0.0.1:50475
+1678206819037	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "50476" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\ASHDOWNX\\AppData\\Local\\Temp\\rust_mozprofileq5Npsu"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1678206819487	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1678206819493	Marionette	INFO	Listening on port 50483
+Read port: 50483
+WebDriver BiDi listening on ws://127.0.0.1:50476
+1678206819655	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\ASHDOWNX\\AppData\\Local\\Temp\\rust_mozprofileq5Npsu\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:50476/devtools/browser/71fec85b-7a3f-4bb6-b8c8-27f93b71d9e0
+console.error: Region.sys.mjs: "Error fetching region" (new Error("TIMEOUT", "resource://gre/modules/Region.sys.mjs", 764))
+console.error: Region.sys.mjs: "Failed to fetch region" (new Error("TIMEOUT", "resource://gre/modules/Region.sys.mjs", 416))
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+console.error: (new TypeError("lazy.AsyncShutdown.profileBeforeChange is undefined", "resource://services-settings/Database.jsm", 603))
+JavaScript warning: https://pagead2.googlesyndication.com/bg/YvrCvW6enSrSZlpWfT49hCwWEU4IwRN__jQypf5gIC4.js line 2 > eval line 5204 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: , line 0: NS_ERROR_NOT_AVAILABLE
+1:51109
+1678207398543	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "51110" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\ASHDOWNX\\AppData\\Local\\Temp\\rust_mozprofileqkp0zX"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1678207399111	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1678207399119	Marionette	INFO	Listening on port 51117
+Read port: 51117
+WebDriver BiDi listening on ws://127.0.0.1:51110
+1678207399307	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\ASHDOWNX\\AppData\\Local\\Temp\\rust_mozprofileqkp0zX\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:51110/devtools/browser/a2c8a759-e18f-42e3-be12-7ea3b15201b1
+console.error: Region.sys.mjs: "Error fetching region" (new Error("TIMEOUT", "resource://gre/modules/Region.sys.mjs", 764))
+console.error: Region.sys.mjs: "Failed to fetch region" (new Error("TIMEOUT", "resource://gre/modules/Region.sys.mjs", 416))
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+console.error: (new TypeError("lazy.AsyncShutdown.profileBeforeChange is undefined", "resource://services-settings/Database.jsm", 603))
+JavaScript warning: https://pagead2.googlesyndication.com/bg/YvrCvW6enSrSZlpWfT49hCwWEU4IwRN__jQypf5gIC4.js line 2 > eval line 3008 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: , line 0: NS_ERROR_NOT_AVAILABLE
+1:51506
+1678207515668	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "51507" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\ASHDOWNX\\AppData\\Local\\Temp\\rust_mozprofile1OQgrd"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1678207516089	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1678207516096	Marionette	INFO	Listening on port 51514
+Read port: 51514
+WebDriver BiDi listening on ws://127.0.0.1:51507
+1678207516247	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\ASHDOWNX\\AppData\\Local\\Temp\\rust_mozprofile1OQgrd\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:51507/devtools/browser/f7e1ca7e-6b01-4299-ad3d-bb0449244cb6
+console.error: Region.sys.mjs: "Error fetching region" (new Error("TIMEOUT", "resource://gre/modules/Region.sys.mjs", 764))
+console.error: Region.sys.mjs: "Failed to fetch region" (new Error("TIMEOUT", "resource://gre/modules/Region.sys.mjs", 416))
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+console.error: (new TypeError("lazy.AsyncShutdown.profileBeforeChange is undefined", "resource://services-settings/Database.jsm", 603))
+JavaScript warning: https://pagead2.googlesyndication.com/bg/YvrCvW6enSrSZlpWfT49hCwWEU4IwRN__jQypf5gIC4.js line 2 > eval line 2400 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: , line 0: NS_ERROR_NOT_AVAILABLE
+1:52076
+1678208185554	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "52077" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\ASHDOWNX\\AppData\\Local\\Temp\\rust_mozprofilehLq1pk"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1678208186099	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1678208186109	Marionette	INFO	Listening on port 52084
+Read port: 52084
+WebDriver BiDi listening on ws://127.0.0.1:52077
+1678208186306	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\ASHDOWNX\\AppData\\Local\\Temp\\rust_mozprofilehLq1pk\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:52077/devtools/browser/64d8f2a2-f9e6-432d-8cd1-9c4722dddd5f
+console.error: Region.sys.mjs: "Error fetching region" (new Error("TIMEOUT", "resource://gre/modules/Region.sys.mjs", 764))
+console.error: Region.sys.mjs: "Failed to fetch region" (new Error("TIMEOUT", "resource://gre/modules/Region.sys.mjs", 416))
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+console.error: (new TypeError("lazy.AsyncShutdown.profileBeforeChange is undefined", "resource://services-settings/Database.jsm", 603))
+JavaScript warning: https://pagead2.googlesyndication.com/bg/YvrCvW6enSrSZlpWfT49hCwWEU4IwRN__jQypf5gIC4.js line 2 > eval line 25 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: , line 0: NS_ERROR_NOT_AVAILABLE
+1:52483
+1678208303253	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "52484" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\ASHDOWNX\\AppData\\Local\\Temp\\rust_mozprofileIwiX9X"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1678208303782	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1678208303795	Marionette	INFO	Listening on port 52491
+Read port: 52491
+WebDriver BiDi listening on ws://127.0.0.1:52484
+1678208303991	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\ASHDOWNX\\AppData\\Local\\Temp\\rust_mozprofileIwiX9X\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:52484/devtools/browser/114908b1-29b2-4108-9703-e7884837f633
+console.error: Region.sys.mjs: "Error fetching region" (new Error("TIMEOUT", "resource://gre/modules/Region.sys.mjs", 764))
+console.error: Region.sys.mjs: "Failed to fetch region" (new Error("TIMEOUT", "resource://gre/modules/Region.sys.mjs", 416))
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+console.error: (new TypeError("lazy.AsyncShutdown.profileBeforeChange is undefined", "resource://services-settings/Database.jsm", 603))
+JavaScript warning: https://pagead2.googlesyndication.com/bg/YvrCvW6enSrSZlpWfT49hCwWEU4IwRN__jQypf5gIC4.js line 2 > eval line 7514 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: , line 0: NS_ERROR_NOT_AVAILABLE
+1:52949
+1678208705465	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "52950" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\ASHDOWNX\\AppData\\Local\\Temp\\rust_mozprofile0LRnLC"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1678208706085	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1678208706098	Marionette	INFO	Listening on port 52957
+Read port: 52957
+WebDriver BiDi listening on ws://127.0.0.1:52950
+1678208706325	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\ASHDOWNX\\AppData\\Local\\Temp\\rust_mozprofile0LRnLC\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:52950/devtools/browser/d4f3d5fc-d9cd-42d8-a4bd-d31fd3f90097
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+console.error: (new TypeError("lazy.AsyncShutdown.profileBeforeChange is undefined", "resource://services-settings/Database.jsm", 603))
+JavaScript warning: https://pagead2.googlesyndication.com/bg/YvrCvW6enSrSZlpWfT49hCwWEU4IwRN__jQypf5gIC4.js line 2 > eval line 5575 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: , line 0: NS_ERROR_NOT_AVAILABLE
+1:53412
+1678208888961	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "53413" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\ASHDOWNX\\AppData\\Local\\Temp\\rust_mozprofile3o7VRe"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1678208889406	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1678208889419	Marionette	INFO	Listening on port 53421
+Read port: 53421
+WebDriver BiDi listening on ws://127.0.0.1:53413
+1678208889597	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\ASHDOWNX\\AppData\\Local\\Temp\\rust_mozprofile3o7VRe\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:53413/devtools/browser/39192da4-1fa8-4b7d-8cac-e703385e2058
+console.error: Region.sys.mjs: "Error fetching region" (new Error("TIMEOUT", "resource://gre/modules/Region.sys.mjs", 764))
+console.error: Region.sys.mjs: "Failed to fetch region" (new Error("TIMEOUT", "resource://gre/modules/Region.sys.mjs", 416))
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+console.error: (new TypeError("lazy.AsyncShutdown.profileBeforeChange is undefined", "resource://services-settings/Database.jsm", 603))
+JavaScript warning: https://pagead2.googlesyndication.com/bg/YvrCvW6enSrSZlpWfT49hCwWEU4IwRN__jQypf5gIC4.js line 2 > eval line 7191 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: , line 0: NS_ERROR_NOT_AVAILABLE
+1:53941
+1678209266534	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "53942" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\ASHDOWNX\\AppData\\Local\\Temp\\rust_mozprofilejPd8AT"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1678209267112	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1678209267123	Marionette	INFO	Listening on port 53957
+Read port: 53957
+WebDriver BiDi listening on ws://127.0.0.1:53942
+1678209267344	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\ASHDOWNX\\AppData\\Local\\Temp\\rust_mozprofilejPd8AT\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:53942/devtools/browser/49c026c6-20a6-43a6-ad9d-6e711bdb5c38
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+console.error: (new TypeError("lazy.AsyncShutdown.profileBeforeChange is undefined", "resource://services-settings/Database.jsm", 603))
+JavaScript warning: https://pagead2.googlesyndication.com/bg/YvrCvW6enSrSZlpWfT49hCwWEU4IwRN__jQypf5gIC4.js line 2 > eval line 1701 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+console.error: (new TypeError("lazy.AsyncShutdown.profileBeforeChange is undefined", "resource://services-settings/Database.jsm", 603))
+console.warn: "Listener for event 'frame' did not return a promise."
+console.warn: "Listener for event 'frame' did not return a promise."
+console.warn: "Listener for event 'frame' did not return a promise."
+8" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\ASHDOWNX\\AppData\\Local\\Temp\\rust_mozprofileDAQOkw"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1678209417180	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1678209417189	Marionette	INFO	Listening on port 54425
+Read port: 54425
+WebDriver BiDi listening on ws://127.0.0.1:54418
+1678209417402	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\ASHDOWNX\\AppData\\Local\\Temp\\rust_mozprofileDAQOkw\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:54418/devtools/browser/0049f033-5ec9-43bb-b038-cc84ef0f13ab
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+console.error: (new TypeError("lazy.AsyncShutdown.profileBeforeChange is undefined", "resource://services-settings/Database.jsm", 603))
+JavaScript warning: https://pagead2.googlesyndication.com/bg/YvrCvW6enSrSZlpWfT49hCwWEU4IwRN__jQypf5gIC4.js line 2 > eval line 6357 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1678227565550	geckodriver	INFO	Listening on 127.0.0.1:64583
+1678227568653	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-no-remote" "-profile" "C:\\Users\\KDOINF~1\\AppData\\Local\\Temp\\rust_mozprofiledVSHqh"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1678227627123	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1678227627251	Marionette	INFO	Listening on port 64629
+Read port: 64629
+Read port: 64629
+1678227910102	geckodriver	INFO	Listening on 127.0.0.1:64766
+1678227912692	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-no-remote" "-profile" "C:\\Users\\KDOINF~1\\AppData\\Local\\Temp\\rust_mozprofilez29Axl"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1678227927052	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1678227927163	Marionette	INFO	Listening on port 64779
+Read port: 64779
+Read port: 64779
+Read port: 64779
+Read port: 64779
+Read port: 64779
+Read port: 64779
+Read port: 64779
+Read port: 64779
+Read port: 64779
+Read port: 64779
+Read port: 64779
+Read port: 64779
+Read port: 64779
+Read port: 64779
+Read port: 64779
+Read port: 64779
+Read port: 64779
+1678227970539	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.error: Region.sys.mjs: "Error fetching region" (new Error("TIMEOUT", "resource://gre/modules/Region.sys.mjs", 764))
+console.error: Region.sys.mjs: "Failed to fetch region" (new Error("TIMEOUT", "resource://gre/modules/Region.sys.mjs", 416))
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\KDOINF~1\\AppData\\Local\\Temp\\rust_mozprofilez29Axl\\search.json.mozlz4", (void 0)))
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+console.error: (new TypeError("lazy.AsyncShutdown.profileBeforeChange is undefined", "resource://services-settings/Database.jsm", 603))
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/YvrCvW6enSrSZlpWfT49hCwWEU4IwRN__jQypf5gIC4.js line 2 > eval line 6108 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1678228466898	geckodriver	INFO	Listening on 127.0.0.1:65115
+1678228469874	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-no-remote" "-profile" "C:\\Users\\KDOINF~1\\AppData\\Local\\Temp\\rust_mozprofileGmyWUn"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1678228477048	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1678228477061	Marionette	INFO	Listening on port 65125
+Read port: 65125
+1678228477533	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.error: Region.sys.mjs: "Error fetching region" (new Error("TIMEOUT", "resource://gre/modules/Region.sys.mjs", 764))
+console.error: Region.sys.mjs: "Failed to fetch region" (new Error("TIMEOUT", "resource://gre/modules/Region.sys.mjs", 416))
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\KDOINF~1\\AppData\\Local\\Temp\\rust_mozprofileGmyWUn\\search.json.mozlz4", (void 0)))
+console.error: (new TypeError("this._searchProviderInfo is null", "resource:///modules/SearchSERPTelemetry.sys.mjs", 461))
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+console.error: (new TypeError("lazy.AsyncShutdown.profileBeforeChange is undefined", "resource://services-settings/Database.jsm", 603))
+JavaScript error: , line 0: uncaught exception: undefined
+1678249791621	geckodriver	INFO	Listening on 127.0.0.1:55151
+1678249794668	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-no-remote" "-profile" "C:\\Users\\KDOINF~1\\AppData\\Local\\Temp\\rust_mozprofile40dgtD"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1678249809284	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1678249809360	Marionette	INFO	Listening on port 55164
+Read port: 55164
+Read port: 55164
+Read port: 55164
+Read port: 55164
+Read port: 55164
+1678249815173	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\KDOINF~1\\AppData\\Local\\Temp\\rust_mozprofile40dgtD\\search.json.mozlz4", (void 0)))
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+console.error: (new TypeError("lazy.AsyncShutdown.profileBeforeChange is undefined", "resource://services-settings/Database.jsm", 603))
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: undefined
+1678250031990	geckodriver	INFO	Listening on 127.0.0.1:55414
+1678250034991	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-no-remote" "-profile" "C:\\Users\\KDOINF~1\\AppData\\Local\\Temp\\rust_mozprofilenR5fxS"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1678250036430	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1678250036442	Marionette	INFO	Listening on port 55424
+Read port: 55424
+1678250036935	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\KDOINF~1\\AppData\\Local\\Temp\\rust_mozprofilenR5fxS\\search.json.mozlz4", (void 0)))
+console.error: Region.sys.mjs: "Error fetching region" (new AbortError("The operation was aborted. ", (void 0), 762))
+console.error: Region.sys.mjs: "Failed to fetch region" (new Error("NO_RESULT", "resource://gre/modules/Region.sys.mjs", 416))
+console.error: (new TypeError("this._searchProviderInfo is null", "resource:///modules/SearchSERPTelemetry.sys.mjs", 461))
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+console.error: services.settings: 
+  main/partitioning-exempt-urls Signature failed  TypeError: NetworkError: Network request failed
+console.error: (new NetworkError("Network error: TypeError: NetworkError: Network request failed", "resource://services-settings/RemoteSettingsClient.jsm", 116))
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript warning: https://pagead2.googlesyndication.com/bg/hTGw0iTttGPYNj9jnBVYIcaXVb8tbW1IYYT-gsExgL0.js line 2 > eval line 2488 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.

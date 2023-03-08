@@ -1,0 +1,68 @@
+
+ [
+        {
+            "link": "https://www.propertyfinder.ae/en/plp/buy/apartment-for-sale-dubai-dubai-harbour-emaar-beachfront-beach-isle-9322542.html",
+            "image": [
+                "https://www.propertyfinder.ae/property/404b0875e2bb73e4fbd246ae35119b46/260/185/MODE/db5b6c/9322542-efb89o.webp?ctr=ae",
+                "https://www.propertyfinder.ae/property/404b0875e2bb73e4fbd246ae35119b46/260/185/MODE/db5b6c/9322542-efb89o.jpg?ctr=ae"
+            ],
+            "price": "3,500,000 AED",
+            "title": "Distress Resale | Fully Furnished | Hot Deal",
+            "location": "Beach Isle, EMAAR Beachfront, Dubai Harbour, Dubai",
+            "bedroom": "2 bedrooms",
+            "bathrooms": "2 bathrooms",
+            "area": "1,185 sqft"
+        },
+        {
+            "link": "https://www.propertyfinder.ae/en/plp/buy/apartment-for-sale-dubai-downtown-dubai-forte-forte-1-9396831.html",
+            "image": [
+                "https://www.propertyfinder.ae/property/8952b2869da80d93cc2460b5c325cb33/260/185/MODE/ef620c/9396831-69c25o.webp?ctr=ae",
+                "https://www.propertyfinder.ae/property/8952b2869da80d93cc2460b5c325cb33/260/185/MODE/ef620c/9396831-69c25o.jpg?ctr=ae"
+            ],
+            "price": "2,800,000 AED",
+            "title": "EXCLUSIVE | VASTU High Floor Seaview",
+            "location": "Forte 1, Forte, Downtown Dubai, Dubai",
+            "bedroom": "2 bedrooms",
+            "bathrooms": "2 bathrooms",
+            "area": "1,150 sqft"
+        },
+        {
+            "link": "https://www.propertyfinder.ae/en/plp/buy/apartment-for-sale-dubai-dubai-harbour-emaar-beachfront-sunrise-bay-9427555.html",
+            "image": [
+                "https://www.propertyfinder.ae/property/3e9672d5200560c93867de45de80d58f/260/185/MODE/d226e0/9427555-94b6ao.webp?ctr=ae",
+                "https://www.propertyfinder.ae/property/3e9672d5200560c93867de45de80d58f/260/185/MODE/d226e0/9427555-94b6ao.jpg?ctr=ae"
+            ],
+            "price": "5,000,000 AED",
+            "title": "Full Marina View | Long Balcony | Spacious",
+            "location": "Sunrise Bay, EMAAR Beachfront, Dubai Harbour, Dubai",
+            "bedroom": "2 bedrooms",
+            "bathrooms": "2 bathrooms",
+            "area": "1,231 sqft"
+        },
+        {
+            "link": "https://www.propertyfinder.ae/en/plp/buy/apartment-for-sale-dubai-umm-suqeim-madinat-jumeirah-living-rahaal-9159494.html",
+            "image": [
+                "https://www.propertyfinder.ae/property/bac4a7a6910f5d6eaa91ebefa762b972/260/185/MODE/73f12c/9159494-38cdco.webp?ctr=ae",
+                "https://www.propertyfinder.ae/property/bac4a7a6910f5d6eaa91ebefa762b972/260/185/MODE/73f12c/9159494-38cdco.jpg?ctr=ae"
+            ],
+            "price": "3,970,000 AED",
+            "title": "2-Bedroom | Luxurious | Short-Term Rented",
+            "location": "Rahaal, Madinat Jumeirah Living, Umm Suqeim, Dubai",
+            "bedroom": "2 bedrooms",
+            "bathrooms": "2 bathrooms",
+            "area": "1,160 sqft"
+        },
+        {
+            "link": "https://www.propertyfinder.ae/en/plp/buy/apartment-for-sale-dubai-umm-suqeim-madinat-jumeirah-living-asayel-9349955.html",
+            "image": [
+                "https://www.propertyfinder.ae/property/d74f2fcf03bbba65236b4d737e3bf235/260/185/MODE/d3d0d2/9349955-40a9co.webp?ctr=ae",
+                "https://www.propertyfinder.ae/property/d74f2fcf03bbba65236b4d737e3bf235/260/185/MODE/d3d0d2/9349955-40a9co.jpg?ctr=ae"
+            ],
+            "price": "3,200,000 AED",
+            "title": "2-Bedroom | Handover Q1 2023 | Brand New",
+            "location": "Asayel, Madinat Jumeirah Living, Umm Suqeim, Dubai",
+            "bedroom": "2 bedrooms",
+            "bathrooms": "2 bathrooms",
+            "area": "1,095 sqft"
+        }
+    ]
